@@ -1,3 +1,5 @@
+# Max's page link <a href="https://max-pricher.github.io/ImageFall2025/"> Link </a>
+
 # Welcome to A-frame Sandbox
 
 Below you’ll find instructions to copy this repository and set it up for your own experiments.
